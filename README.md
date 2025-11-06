@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Seb (cbassuarez)
 
-<!--
-**cbassuarez/cbassuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artist–engineer building performance tech at **Stage Devices** and open tools at **@dexdsl**.  
+Focus: **time sync**, **just intonation**, and **audio/visual systems** for live performance.
 
-Here are some ideas to get you started:
+## What I’m working on
+- **SyncTimer** – ensemble stopwatch with sub-ms sync, BLE/LAN, Kalman filters
+- **Tenney** – JI tuner & lattice explorer (iOS)
+- **Praetorius (CLI)** – generate interactive composition portfolios with robust PDF playback & snapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research & interests
+Cybernetic art · phenomenology · lattice tuning systems · optics-driven performance · instrument resonance
+
+## Selected links
+- Stage Devices — https://stagedevices.com
+- dexdsl — https://dexdsl.org
+- Tenney — https://tenneyapp.com
+- SyncTimer — https://synctimerapp.com
+- Praetorius – https://github.com/cbassuarez/praetorius
+
+## Contact
+DM via GitHub or cbassuarez.com.
