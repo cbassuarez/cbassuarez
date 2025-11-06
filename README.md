@@ -18,5 +18,11 @@ Cybernetic art · phenomenology · lattice tuning systems · optics-driven perfo
 - SyncTimer — https://synctimerapp.com
 - Praetorius – https://github.com/cbassuarez/praetorius
 
+## Stats
+ ![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbassuarez&show_icons=true&theme=transparent&hide_border=true&hide_title=false&include_all_commits=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbassuarez&layout=compact&langs_count=8&theme=transparent&hide_border=true)
+
+
 ## Contact
 DM via GitHub or cbassuarez.com.
