@@ -26,3 +26,5 @@ Cybernetic art · phenomenology · lattice tuning systems · optics-driven perfo
 
 ## Contact
 DM via GitHub or cbassuarez.com.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=cbassuarez&color=grey&style=flat-square)
