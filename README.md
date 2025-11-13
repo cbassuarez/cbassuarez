@@ -17,6 +17,7 @@ Cybernetic art · phenomenology · lattice tuning systems · optics-driven perfo
 - Tenney — https://tenneyapp.com
 - SyncTimer — https://synctimerapp.com
 - Praetorius – https://github.com/cbassuarez/praetorius
+- Viable Prompt Protocol (VPP) - https://github.com/cbassuarez/viable-prompt-protocol
 
 ## Stats
  ![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbassuarez&show_icons=true&theme=transparent&hide_border=true&hide_title=false&include_all_commits=true&count_private=true)
