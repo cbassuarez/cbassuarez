@@ -38,12 +38,6 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 4. Prefer public demos, reproducible examples; make the real thing first.
 5. Make the infrastructure visible.
 
-## Background
-
-I am an artist-engineer, technical educator, and recent DMA graduate from CalArts. My research and project work focus on cybernetics, human-machine feedback, AI workflows, real-time media, public systems, spatial experience, and the ways technical infrastructure changes how people behave, collaborate, and make meaning.
-
-I have taught and advised students across AI workflows, creative coding, interactive media, web systems, documentation, and public-facing technical projects. That teaching background shapes how I build: a system is not finished when it runs once; it is finished when someone else can understand what it does, why it exists, how it can fail, and how to use it responsibly.
-
 ## Links
 
 * Portfolio: [cbassuarez.com](https://cbassuarez.com)
