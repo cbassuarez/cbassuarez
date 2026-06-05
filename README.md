@@ -5,7 +5,7 @@ I build AI-assisted workflows, real-time media systems, and artist tooling.
 Current focus on human-AI workflow protocols, agentic tooling, public-facing AI systems, media infrastructure, and documentation-heavy prototypes that can be understood, tested, and reused.
 
 <img width="2000" height="1125" alt="co_nyc_sync" src="https://github.com/user-attachments/assets/6e3bc7ab-9467-4a75-9840-c792080db2d0" />
-*`co`, a site-specific generative artwork that lives [here](https://github.com/cbassuarez/co)*
+*`co`, a site-specific generative artwork that lives* [here](https://github.com/cbassuarez/co)
 
 ## Selected systems
 
