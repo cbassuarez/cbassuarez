@@ -21,10 +21,10 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 
 ## Current work
 
-* **AI workflow systems** — protocols, review loops, prompt/context structures, and team-operable practices for using LLMs beyond one-off prompting.
-* **Public-facing AI tools** — intake, moderation, routing, guardrails, rejection paths, and documentation for systems that touch unpredictable human input.
-* **Real-time media infrastructure** — networked devices, operator tools, projection/media systems, WebSockets, HLS, replay logs, and installation/runtime documentation.
-* **Documentation-first prototypes** — projects designed to be explained, inspected, tested, handed off, and improved.
+* **AI workflow systems**
+* **Public-facing AI tools**
+* **Real-time media infrastructure**
+* **Documentation-first prototypes**
 
 ## Technical range
 
