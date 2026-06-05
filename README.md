@@ -38,6 +38,48 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 4. Prefer public demos, reproducible examples; make the real thing first.
 5. Make the infrastructure visible.
 
+## labs
+
+Live and experimental routes.
+
+These are browser-native works, public sketches, feeds, instruments, ledgers, and small systems that run on the site itself. Some are finished pieces. Some are unstable rooms. Some are utilities or residues from larger works. All of them treat the website as a site of behavior rather than a container for documentation.
+
+>### [(to)complete](https://cbassuarez.com/labs/corpus/)
+>**one shared sentence, mutated by visitation**
+>A networked text work that grows one visit at a time. The page borrows the promise of autocomplete, then refuses closure: every accepted visit adds language to a sentence that keeps becoming more complete and less finished.
+
+>### [String](https://cbassuarez.com/labs/string)
+>**shared live string instrument**
+>A browser instrument for distant sympathetic action. Each visitor plays one string; each pluck travels outward, disturbs nearby strings, and returns as resonance.
+
+>### [seb's REPL](https://cbassuarez.com/labs/repl)
+>**live-coding score-grid REPL**
+>A score-grid environment for live coding, testing, and operating musical or performative structures from inside the browser.
+
+>### [seb feed](https://cbassuarez.com/labs/feed)
+>**live operator activity timeline**
+>A public feed of site activity, maintenance, operation, and traces: the website showing some of its own ongoing life.
+
+>### [chunk surfer](https://cbassuarez.com/labs/chunk-surfer)
+>**navigable chunk-field lab surface**
+>A walkable field of fragments. The page behaves less like an audio player than a terrain: something entered, crossed, skimmed, and sounded from inside.
+
+>### [tell me about your day](https://cbassuarez.com/labs/tell-me-about-your-day)
+>**daily submission and reels route**
+>A small daily intake system for ordinary report, confession, anecdote, and mood; a social form powered by Amazon Bedrock.
+
+>### [this person](https://cbassuarez.com/labs/this-person)
+>**advertising-profile extraction and return loop**
+>A consented extraction work about ad profiles, addressability, inference, and return. A wall of real left behind ads and identifiers.
+
+>### [microwear](https://cbassuarez.com/labs/morts)
+>**computational-wear accounting unit**
+>A tiny benchmark-ledger for computational wear. It reports battery-mort and thermal-mort after a short multi-core run, turning invisible device fatigue into a countable unit.
+
+>### [anteroom](https://cbassuarez.com/labs/room)
+>**usually closed**
+>A closed or intermittently available room: open only when two or more users find a 404 route.
+
 ## Links
 
 * Portfolio: [cbassuarez.com](https://cbassuarez.com)
