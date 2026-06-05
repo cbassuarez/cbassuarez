@@ -28,11 +28,11 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 
 ## How I work
 
-1. Build the smallest useful system first, then document assumptions, constraints, and failure modes.
-2. Treat AI workflows as systems: context, outputs, review, tests, handoff, and human judgment.
-3. Prefer public demos, reproducible examples, and clear READMEs over vague project claims.
-4. Design for people who need to understand, operate, critique, or extend the system later.
-5. Work across art, research, education, product, and infrastructure contexts without treating those as separate worlds.
+1. Clear separation between concept and build. 
+2. Build the smallest useful system first. 
+3. Treat AI workflows as systems with context, outputs, review, tests, handoff, and human judgment.
+4. Prefer public demos, reproducible examples; make the real thing first.
+5. Make the infrastructure visible.
 
 ## Background
 
