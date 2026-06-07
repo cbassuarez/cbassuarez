@@ -8,7 +8,7 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 
 *`co`, a site-specific generative artwork that lives [here](https://github.com/cbassuarez/co)*
 
-## Selected systems
+## Selected repos
 
 | Project | What it is | Signal |
 | --- | --- | --- |
@@ -23,9 +23,9 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 ## Current work
 
 * **AI workflow systems**
-* **Public-facing AI tools**
+* **Tooling for artists**
 * **Real-time media infrastructure**
-* **Documentation-first prototypes**
+* **System-based/cybernetic artworks**
 
 ## Technical range
 
@@ -41,7 +41,7 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 
 ## labs
 
-Live and experimental routes.
+Labs routes are artworks that live on my personal site.
 
 These are browser-native works, public sketches, feeds, instruments, ledgers, and small systems that run on the site itself. Some are finished pieces. Some are unstable rooms. Some are utilities or residues from larger works. All of them treat the website as a site of behavior rather than a container for documentation.
 
