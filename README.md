@@ -14,9 +14,10 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 | --- | --- | --- |
 | [Viable Prompt Protocol](https://github.com/cbassuarez/viable-prompt-protocol) | Versioned protocol for human-AI collaboration, review loops, assumptions, and repeatable QA | AI workflow design · documentation · evaluation |
 | [Tell me about your day](https://cbassuarez.com/labs/tell-me-about-your-day) | AI-assisted intake, moderation, routing, and publication pipeline | Cloudflare Workers · guardrails · Python bridge · public input |
+| [dmosh](https://github.com/cbassuarez/dmosh) | Cross-platform video datamosher | Rust/WASM · ffmpeg · Tauri |
 | [Praetorius](https://github.com/cbassuarez/praetorius) | CLI/runtime for synchronized media review and CMS-ready presentation | TypeScript · validation · templates · handoff |
 | [letgo](https://github.com/cbassuarez/letgo) | Distributed media-performance system for projection + audience phones | Swift · WebSockets · React · HLS · Redis/Postgres |
-| [phase-space](https://github.com/cbassuarez/phase-space) | Browser-native audiovisual system / visual instrument | Rust/WASM · Three.js · Web Audio · ~12.7k LOC |
+| [phase-space](https://github.com/cbassuarez/phase-space) | Cross-platform audiovisual system / visual instrument | Rust/WASM · Three.js · Web Audio · ~12.7k LOC |
 | [Dex Digital Sample Library](https://dexdsl.org) | Open media infrastructure and artist archive | 5TB · 25 artists · public access · metadata/workflows |
 
 ## Current work
