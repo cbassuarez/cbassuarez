@@ -39,7 +39,7 @@ Current focus on human-AI workflow protocols, [net artworks](#labs), agentic too
 4. Prefer public demos, reproducible examples; make the real thing first.
 5. Make the infrastructure visible.
 
-## labs
+## labs (net artworks at cbassuarez.com)
 
 Labs routes are artworks that live on my personal site.
 
