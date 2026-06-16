@@ -1,8 +1,8 @@
 # Hi, I'm Seb Suarez-Solis / `cbassuarez`
 
-I build AI-assisted workflows, real-time media systems, and artist tooling.
+I build gallery pieces, AI-assisted workflows, real-time media systems, and artist tooling.
 
-Current focus on human-AI workflow protocols, agentic tooling, public-facing AI systems, media infrastructure, and documentation-heavy prototypes that can be understood, tested, and reused.
+Current focus on human-AI workflow protocols, [net artworks](#labs), agentic tooling, public-facing AI systems, media infrastructure, and documentation-heavy prototypes that can be understood, tested, and reused.
 
 <img width="2000" height="1125" alt="co_nyc_sync" src="https://github.com/user-attachments/assets/6e3bc7ab-9467-4a75-9840-c792080db2d0" />
 
@@ -13,7 +13,7 @@ Current focus on human-AI workflow protocols, agentic tooling, public-facing AI 
 | Project | What it is | Signal |
 | --- | --- | --- |
 | [Viable Prompt Protocol](https://github.com/cbassuarez/viable-prompt-protocol) | Versioned protocol for human-AI collaboration, review loops, assumptions, and repeatable QA | AI workflow design · documentation · evaluation |
-| [Tell me about your day](https://cbassuarez.com/labs/tell-me-about-your-day) | AI-assisted intake, moderation, routing, and publication pipeline | Cloudflare Workers · guardrails · Python bridge · public input |
+| [Tell me about your day](https://cbassuarez.com/labs/tell-me-about-your-day) |  Gallery work; receipt printer confessional and reel uptake mechanism // AI-assisted intake, moderation, routing, and publication pipeline | Cloudflare Workers · guardrails · Python bridge · public input |
 | [dmosh](https://github.com/cbassuarez/dmosh) | Cross-platform video datamosher | Rust/WASM · ffmpeg · Tauri |
 | [Praetorius](https://github.com/cbassuarez/praetorius) | CLI/runtime for synchronized media review and CMS-ready presentation | TypeScript · validation · templates · handoff |
 | [letgo](https://github.com/cbassuarez/letgo) | Distributed media-performance system for projection + audience phones | Swift · WebSockets · React · HLS · Redis/Postgres |
